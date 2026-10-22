@@ -1,5 +1,7 @@
 ## Hi there 👋
+## 🐍 Contribution Snake
 
+![Snake](https://raw.githubusercontent.com/fight24/fight24/output/github-contribution-grid-snake-dark.svg)
 <!--
 **fight24/fight24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
