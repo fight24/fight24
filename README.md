@@ -7,7 +7,7 @@
 > Learning by building. Exploring technology one project at a time.
 ## 🐍 Contribution Snake
 
-![Snake](https://raw.githubusercontent.com/fight24/fight24/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/fight24/fight24/output/github-contribution-grid-snake.svg)
 <!--
 **fight24/fight24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
